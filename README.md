@@ -8,7 +8,7 @@ I’m deeply interested in data analytics and love uncovering insights hidden wi
 
 🧠 Advanced in SQL, Excel, and MS Word
 
-🐍 Proficient in Python, especially with Pandas, Matplotlib, and Seaborn
+🐍 Proficient in Python, especially with numpy , Pandas, Matplotlib, and Seaborn (and basics of web scraping libraries as well including json , requests and Beautifullsoup)
 
 📊 Skilled in Power BI dashboard creation
 
@@ -16,7 +16,7 @@ I’m deeply interested in data analytics and love uncovering insights hidden wi
 
 🌍 Fun Facts:
 
-I speak 3 languages fluently
+I speak 2 languages fluently
 
 I'm an enthusiastic learner who thrives on challenges
 
